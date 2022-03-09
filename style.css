@@ -64,9 +64,11 @@ input{
     padding-left: 10px;
     position: relative;
     font-size: 1.2rem;
+    filter: drop-shadow(4px 10px 15px rgba(0, 0, 0, 0.8));
+    
 }
 button{
-    width: 48px;
+    width: 54px;
     height: 48px;
     background-color: var(--bg-button-color);
     border: none;
